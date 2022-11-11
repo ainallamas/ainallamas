@@ -5,12 +5,9 @@
 
 <h3 align="center">
 Hi there, I'm Aina 👋
-</h3>
-
-<h2 align="center">
+<br>
 I'm a Front-end Web Developer 💻
-</h2>
-
+</h3>
 
 ## 👩🏽‍💻Technicall Skills:
 
