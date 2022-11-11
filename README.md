@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/32444061/201308760-d340cd39-7123-4295-b907-7e1b3796471f.png" alt="my banner">
+<img src="https://user-images.githubusercontent.com/32444061/201320058-e4d4a121-b091-4afa-8660-5ea0cf54386e.png" alt="myBanner">
 </p>
 
 
@@ -12,21 +12,28 @@ Hi there, I'm Aina 👋
 I'm a Front-end Web Developer 💻
 </h2>
 
-<br>
 
 ### 👩🏽‍💻Technicall Skills:
 
-<img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5">
+## Languages: 
 
-<img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3">
+<img height="50" align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5">
 
-<img height="50" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javaScript">
+<img height="50" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3">
 
-<img height="50" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" alt="bulma">
+<img height="50" align="left" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javaScript">
 
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
+## Frameworks:
 
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
+<img height="50" align="left" src="https://assets.stickpng.com/thumbs/58482acecef1014c0b5e4a1e.png" alt="vueJS">
+
+<img height="50" align="left" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" alt="bulma">
+
+## Other:
+
+<img height="50" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
+
+<img height="50" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
 
 <br>
 
