@@ -3,6 +3,7 @@
 </p>
 
 
+
 <h3 align="center">
 Hi there, I'm Aina 👋
 </h3>
@@ -11,32 +12,35 @@ Hi there, I'm Aina 👋
 I'm a Front-end Web Developer 💻
 </h2>
 
+<br>
+
 ### 👩🏽‍💻Technicall Skills:
 
-<img align="left" src="https://img2.freepng.es/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg">
+<img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5">
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png">
+<img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3">
 
-<img align="left" src="https://assets.stickpng.com/thumbs/58482acecef1014c0b5e4a1e.png">
+<img height="50" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javaScript">
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" alt="bulma">
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
 
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
 
-
+<br>
 
 ### 📈 GitHub Stats: 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ainallamas)](https://github.com/ainallamas)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainallamas&layout=compact)](https://github.com/ainallamas)
 
-
+<br>
 
 ### 💌 Connect with me:
 <a href="https://www.linkedin.com/in/ainallamas/"><img align="left" src="./ImagesFolder/linkedin.png">
 
+<br>
 
 <!--
 **ainallamas/ainallamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
