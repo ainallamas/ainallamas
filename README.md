@@ -3,7 +3,6 @@
 </p>
 
 
-
 <h3 align="center">
 Hi there, I'm Aina 👋
 </h3>
@@ -13,9 +12,9 @@ I'm a Front-end Web Developer 💻
 </h2>
 
 
-### 👩🏽‍💻Technicall Skills:
+## 👩🏽‍💻Technicall Skills:
 
-## Languages: 
+### Languages: 
 
 <img height="50" align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5">
 
@@ -23,13 +22,17 @@ I'm a Front-end Web Developer 💻
 
 <img height="50" align="left" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javaScript">
 
-## Frameworks:
+<br> 
 
-<img height="50" align="left" src="https://assets.stickpng.com/thumbs/58482acecef1014c0b5e4a1e.png" alt="vueJS">
+### Frameworks:
+
+<img height="50" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vueJS">
 
 <img height="50" align="left" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" alt="bulma">
 
-## Other:
+<br>
+
+### Other:
 
 <img height="50" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
 
@@ -37,14 +40,13 @@ I'm a Front-end Web Developer 💻
 
 <br>
 
-### 📈 GitHub Stats: 
-
+## 📈 GitHub Stats: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainallamas&layout=compact)](https://github.com/ainallamas)
 
-<br>
 
-### 💌 Connect with me:
+## 💌 Connect with me:
+
 <a href="https://www.linkedin.com/in/ainallamas/"><img align="left" height="50" src="./ImagesFolder/linkedin.png" alt="LinkedIn">
 
 <br>
