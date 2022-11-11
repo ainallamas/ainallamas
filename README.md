@@ -22,7 +22,7 @@ I'm a Front-end Web Developer 💻
 
 <img height="50" align="left" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javaScript">
 
-<br> 
+<br><br><br>
 
 ### Frameworks:
 
@@ -30,7 +30,7 @@ I'm a Front-end Web Developer 💻
 
 <img height="50" align="left" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" alt="bulma">
 
-<br>
+<br><br><br>
 
 ### Other:
 
