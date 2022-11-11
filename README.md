@@ -38,7 +38,7 @@ I'm a Front-end Web Developer 💻
 <br>
 
 ### 💌 Connect with me:
-<a href="https://www.linkedin.com/in/ainallamas/"><img align="left" src="./ImagesFolder/linkedin.png">
+<a href="https://www.linkedin.com/in/ainallamas/"><img align="left" height="50" src="./ImagesFolder/linkedin.png" alt="LinkedIn">
 
 <br>
 
